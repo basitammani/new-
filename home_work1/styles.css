@@ -1,0 +1,15 @@
+.main_id {
+    background-color: rgb(23, 70, 70);
+    color: rgb(223, 223, 236);
+    padding: 12px;
+    margin: 12px;
+    border: 20px;
+}
+#main_id1{
+    background-color: bisque;
+    color: brown;
+    padding: 12px;
+    margin: 12px;
+    border: 20px;
+
+}
